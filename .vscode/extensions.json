@@ -1,0 +1,18 @@
+{
+    // Place
+    //  y
+    // our settings in this file to overwrite default and user settings.
+
+    "recommendations": [
+        "dart-code.flutter",
+        "dart-code.dart-code",
+        "esbenp.prettier-vscode",
+        "ms-toolsai.jupyter",
+        "ms-python.python",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.jupyter-cell-tags",
+        "ms-toolsai.jupyter-drawio",
+        "circlecodesolution.ccs-flutter-color"
+    ]
+}
